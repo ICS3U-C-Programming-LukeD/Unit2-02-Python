@@ -3,8 +3,10 @@
 # Created By: Luke
 # Date: Feb 28, 2025
 # Calculates the circumference of a circle using tau using radius
-import math
-import constants
+import math  # Math library import
+
+import constants  # Constant imports
+
 
 # Adds math module
 
